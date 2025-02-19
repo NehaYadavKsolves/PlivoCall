@@ -1,0 +1,5 @@
+<Response>
+    <Dial action="https://<yourdomain>.com/dial_status/" method="POST" redirect="true">
+        <Number>+919575337791</Number>
+    </Dial>
+</Response>
