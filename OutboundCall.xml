@@ -1,5 +1,5 @@
 <Response>
-    <Dial action="https://<yourdomain>.com/dial_status/" method="POST" redirect="true">
-        <Number>+919575337791</Number>
-    </Dial>
+  <Dial callerId="+912231043771">
+    <Number>+919575337791</Number>
+  </Dial>
 </Response>
