@@ -1,0 +1,5 @@
+<Response>
+    <Dial>
+        <User>sip:john1234@phone.plivo.com</User>
+    </Dial>
+</Response>
