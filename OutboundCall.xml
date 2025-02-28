@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial>
-        <Number callerId="+919575337791">+917389437350</Number>
+    <Dial callerId="+919575337791">
+        <Number>+917389437350</Number>
     </Dial>
 </Response>
